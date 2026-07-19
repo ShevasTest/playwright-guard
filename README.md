@@ -25,11 +25,17 @@ Playwright Guard turns that repeated setup into one reusable dependency with con
 
 ## Status
 
-The project is in public preview (`0.x`). The API is tested and usable, but minor releases may refine configuration names before `1.0.0`. The first npm publication is tracked in the project roadmap. Until then, clone the repository to evaluate it locally.
+The project is in public preview (`0.x`). The API is tested and usable, but minor releases may refine configuration names before `1.0.0`. The first npm publication is tracked in the project roadmap. Until then, install the verified package artifact from the GitHub release.
 
 ## Quick start
 
-After the npm release:
+Public preview release:
+
+```bash
+npm install --save-dev https://github.com/ShevasTest/playwright-guard/releases/download/v0.1.0/playwright-guard-0.1.0.tgz
+```
+
+After the first npm publication, the shorter command will be:
 
 ```bash
 npm install --save-dev playwright-guard
