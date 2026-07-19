@@ -6,7 +6,7 @@ Security fixes are provided for the latest published minor version. Before `1.0.
 
 ## Reporting a vulnerability
 
-Please use GitHub's private vulnerability reporting for this repository:
+Please use [GitHub's private vulnerability reporting](https://github.com/ShevasTest/playwright-guard/security/advisories/new) for this repository:
 
 `Security` → `Advisories` → `Report a vulnerability`
 
